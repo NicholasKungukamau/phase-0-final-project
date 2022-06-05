@@ -1,0 +1,62 @@
+
+      body {
+        position: absolute;
+        left: 0%;
+        text-align: center;
+        
+      }
+
+      .ct{
+         width: 400px;
+          border: 15px solid rgba(185, 19, 41, 0.925); 
+          padding: 50px; 
+          margin: 50px;
+          margin-left: 700px;
+
+      }
+
+      .container {
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        height: 100%;
+        text-align: center;
+      }
+.cn{
+    background-color: aqua;
+    width: 400px;
+    padding: 20px;
+    margin-left: 700px;  
+}
+.mr{
+    font-size: x-large;
+}
+      button {
+        width: 60px;
+        height: 40px;
+        font-size: 20px;
+        background-color: rgb(40, 144, 185);
+        color: black;
+      }
+
+
+      button:hover {
+        background-color: rgb(177, 34, 182);
+        color: rgb(15, 13, 13);
+      }
+
+
+      h2 {
+        color: rgb(75, 21, 126);
+        margin: 0 30px;
+        font-size: 25px;
+      }
+
+      h1 {
+        font-size: 20px;
+        color: black;
+        text-align: center;
+        padding-left: 10%;
+      }
+
+    
